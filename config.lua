@@ -35,7 +35,8 @@ Config.AuthorizedVehicles = {
 		},
         
 		sec = {
-			{model = 'gm5303', price = 100}
+			{model = 'gm5303', price = 100},
+			{model = 'asdbx', price = 100}
 		},
 		
 		mayor = {
@@ -45,7 +46,9 @@ Config.AuthorizedVehicles = {
 
 		boss = {
 			{model = 'gm5303', price = 100},
-			{model = 'stretch', price = 100}
+			{model = 'stretch', price = 100},
+			{model = 'alpha', price = 100},
+			{model = 'xj', price = 100}
 		}
 	},
 
@@ -90,6 +93,13 @@ Config.Stations = {
 					{coords = vector3(-561.85, -163.27, 38.12), heading =  291.21, radius = 6.0},
 				}
 			},
+			{
+				Spawner = vector3(-3199.0, 832.2, 8.7),
+				InsideShop = vector3(-567.99, -159.64, 51.99),
+				SpawnPoints = {
+					{coords = vector3(-3201.1, 812.3, 7.9), heading =  211.42, radius = 6.0},
+				}
+			}
 		},
 	
 		Helicopters = {

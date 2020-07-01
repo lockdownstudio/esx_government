@@ -56,7 +56,7 @@ Locales['en'] = {
 		['have_withdrawn'] = 'you have withdrawn ~y~%sx~s~ ~b~%s~s~',
 
     	-- Misc 
-    	['map_blip'] = 'Lockdown News',
+    	['map_blip'] = 'City Hall',
 
     	-- Billing Menu  
     	['billing'] = 'Invoice',
